@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Vertically interpolates NetCDF files (NCVerticalInterp)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+repository-code: 'https://doi.org/10.5281/zenodo.7519015'
+abstract: >-
+  Vertically interpolates NetCDF files
+keywords:
+  - Vertical interpolation
+  - NetCDF
+  - CF-1.6
+license: MIT
+version: '1.2'
+date-released: '2023-01-08'
