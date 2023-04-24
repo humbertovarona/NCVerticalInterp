@@ -8,7 +8,7 @@ January, 8th 2023
 
 # DOI
 
-https://doi.org/10.5281/zenodo.7519015
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7519015.svg)](https://doi.org/10.5281/zenodo.7519015)
 
 # Description
 
